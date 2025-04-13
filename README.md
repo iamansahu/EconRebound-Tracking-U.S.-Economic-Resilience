@@ -1,4 +1,4 @@
-# EconRebound: Tracking America's Economic Resilience (2020-2024)
+# EconRebound: Tracking U.S Economic Resilience (2020-2024)
 
 ## Project Overview
 This repository contains a comprehensive analysis of U.S. economic indicators from Q1 2020 through Q4 2024, tracking the economy's journey through the COVID-19 pandemic, subsequent recovery, and stabilization. The analysis examines the relationships between key economic metrics including GDP, Consumer Price Index (CPI), Personal Consumption Expenditures (PCE), and unemployment-adjusted CPI.
